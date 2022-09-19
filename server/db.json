@@ -1,0 +1,90 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"Manuel Asencio",
+            "age":15,
+            "address":"Av Santa Isabel 123"
+        },
+        {
+            "id":2,
+            "name":"Juan Peerez",
+            "age":25,
+            "address":"Av Santa Isabel 543"
+        },
+        {
+            "id":3,
+            "name":"Jorge Rojas",
+            "age":35,
+            "address":"Av Santa Isabel 098"
+        },
+        {
+            "id":4,
+            "name":"Mike Plasencia",
+            "age":28,
+            "address":"Av Santa Isabel 124"
+        },
+        {
+            "id":5,
+            "name":"Manuel Asencio",
+            "age":34,
+            "address":"Av Santa Hidala 123"
+        },
+        {
+            "id":6,
+            "name":"Pedro Silva",
+            "age":65,
+            "address":"Av Santa Isabel 1345"
+        }
+    ],
+    "skills":[
+        {
+            "id":1,
+            "name":"Game Developer"        
+        },
+        {
+            "id":2,
+            "name":"Front Developer"        
+        },
+        {
+            "id":3,
+            "name":"Backend Developer"        
+        },
+        {
+            "id":4,
+            "name":"Mobile App Developer"        
+        }       
+    ],
+    "competences":[
+        {
+            "id":1,
+            "studentId":1,
+            "skillId":4
+        },
+        {
+            "id":2,
+            "studentId":2,
+            "skillId":1
+        },
+        {
+            "id":3,
+            "studentId":3,
+            "skillId":3
+        },
+        {
+            "id":4,
+            "studentId":4,
+            "skillId":1
+        },
+        {
+            "id":5,
+            "studentId":5,
+            "skillId":1
+        },
+        {
+            "id":6,
+            "studentId":6,
+            "skillId":3
+        }
+    ]
+}
